@@ -26,8 +26,8 @@ sh bin/bundle.sh
 
 The technologies used for the application include:
 
-# [Backbone](http://backbonejs.org/) - JS Framework
-# [Bootstrap](http://getbootstrap.com/) - Responsive HTML Design
-# [Handlebars](http://handlebarsjs.com/) - HTML Templating
-# [jQuery](https://jquery.com/) - JavaScript Library
-# [Underscore]() - JavaScript Library
+1. [Backbone](http://backbonejs.org/) - JS Framework
+1. [Bootstrap](http://getbootstrap.com/) - Responsive HTML Design
+1. [Handlebars](http://handlebarsjs.com/) - HTML Templating
+1. [jQuery](https://jquery.com/) - JavaScript Library
+1. [Underscore]() - JavaScript Library
