@@ -1,0 +1,14 @@
+<table class="table table-striped">
+	<tr>
+		<th>First Name</th>
+		<th>Last Name</th>
+		<th>Occupation</th>
+	</tr>
+	{{#each []}}
+	<tr>
+		<td>{{this.firstName}}</td>
+		<td>{{this.lastName}}</td>
+		<td>{{this.occupation}}</td>
+	</tr>
+	{{/each}}
+</table>

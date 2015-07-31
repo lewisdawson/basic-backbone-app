@@ -1,0 +1,18 @@
+{
+  "name": "basic-backbone-app",
+  "version": "0.0.1",
+  "description": "A basic reference application for Backbone",
+  "author": "Lewis Dawson <ldawson7777@yahoo.com>",
+  "main": "./app.js",
+  "dependencies": {
+    "backbone": "1.2.1",
+    "bootstrap": "3.3.5",
+    "handlebars": "3.0.3",
+    "hbsfy": "2.2.1",
+    "jquery": "2.1.4",
+    "underscore": "1.8.3"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
